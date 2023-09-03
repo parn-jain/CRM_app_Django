@@ -1,0 +1,4 @@
+pip install virtualnev
+virtualenv virt
+.\virt\Scripts\activate         activating virtual env
+pip install django
